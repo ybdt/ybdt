@@ -5,7 +5,7 @@
 
 
 欢迎添加我的微信，微信号：yibudengtian1，关注我的公众号  
-![image](./pic/01.jpg)  
+![image](./pic/02.jpg)  
 
 
 <!--
