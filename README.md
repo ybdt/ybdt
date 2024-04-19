@@ -1,16 +1,11 @@
-### Hi there 👋
+# 关于我
+我的博客：https://ybdt.me/  
+我的公众号：『卡卡罗特取西经』，分享原创的文章、工具  
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ybdt&show_icons=true&theme=dracula" /> 
 </div>
-<br>
-<br>
-<div align="center">
-欢迎添加我的微信：yibudengtian1，关注我的公众号 
-</div>
-<div align="center"> 
-  <img src="./pic/02.jpg" />
-</div>
-
 
 <!--
 **ybdt/ybdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
