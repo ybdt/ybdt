@@ -3,9 +3,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ybdt&show_icons=true&theme=dracula" /> 
 </div>
 
-
 欢迎添加我的微信，微信号：yibudengtian1，关注我的公众号  
+<div align="center">
 ![image](./pic/02.jpg)  
+</div>
 
 
 <!--
