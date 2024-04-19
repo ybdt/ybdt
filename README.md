@@ -1,4 +1,16 @@
 ### Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ybdt&show_icons=true&theme=dracula" /> 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybdt&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
+
+
+欢迎添加我的微信，微信号：yibudengtian1，关注我的公众号  
+![image](./pic/公众号.jpg)  
+
 
 <!--
 **ybdt/ybdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
