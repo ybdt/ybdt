@@ -4,9 +4,9 @@
 </div>
 <br>
 <br>
-<br>
-欢迎添加我的微信，微信号：yibudengtian1，关注我的公众号  
+
 <div align="center">
+  欢迎添加我的微信，微信号：yibudengtian1，关注我的公众号  
   <img src="./pic/02.jpg" />
 </div>
 
